@@ -9,7 +9,7 @@ tags:
   - Blog
   - Gatsby
   - Gridsome
-image: ./images/post-example.jpg
+image: ./images/post-example2.jpg
 canonical_url: false
 description: Markdown Example Description
 ---
